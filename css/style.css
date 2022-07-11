@@ -14,7 +14,7 @@ img {
   top: 0;
   left: unset;
   right: 0;
-  background-image: url(/img/shoe.jpg);
+  background-image: url(/shoes/img/shoe.jpg);
   background-size: cover;
   background-position: 20% 20%;
   width: 50%;
